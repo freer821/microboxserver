@@ -1,0 +1,4 @@
+.idea
+resources
+static
+**/__pycache__/
