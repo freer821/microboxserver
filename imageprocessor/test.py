@@ -1,7 +1,7 @@
 import unittest
-from image_processing import SourceImage
-from image_processing import Image
-from image_processing import ImageProcess
+from app import SourceImage
+from app import Image
+from app import ImageProcess
 import os
 import cv2
 import numpy as np
