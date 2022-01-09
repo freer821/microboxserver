@@ -2,6 +2,7 @@ from socketclient import SocketClient
 
 client = SocketClient.instance()
 
+
 def image_scan():
     try:
         client.send('DoScan\n')
